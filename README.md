@@ -9,4 +9,4 @@ Soy Victor Luna, estudiante de Ingeniería de Sistemas con enfoque en el desarro
 - Objetivo profesional: consolidarme como desarrollador full stack.
 
 ### Contacto
-Correo: manuellunalopez.work@gmail.com
+Correo: victormanuellunalopez31@gmail.com
